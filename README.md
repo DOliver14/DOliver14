@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o David Henrique 🙋‍♂️ <br/><br/><br/>
+### Olá! Eu sou o David Henrique 🙋‍♂️ <br/><br/>
 
 👋 Seja bem-vindo ao meu espaço no GitHub! Sou David, tenho 23 anos e moro em Sorocaba-SP. Aqui você vai acompanhar minha jornada na programação, onde estou sempre evoluindo e buscando aprender mais a cada dia. Estou aberto a sugestões e conselhos para crescer ainda mais como desenvolvedor, e também em busca de uma oportunidade para atuar como programador. Fique à vontade para explorar meus projetos e, quem sabe, colaborar em algo juntos!<br/><br/>
 
