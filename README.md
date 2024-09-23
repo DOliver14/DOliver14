@@ -1,19 +1,19 @@
 
-### Olá! Eu sou o David Henrique 🙋‍♂️ 
+### Olá! Eu sou o David Henrique 🙋‍♂️ <br/><br/><br/>
 
-👋 Seja bem-vindo ao meu espaço no GitHub! Sou David, tenho 23 anos e moro em Sorocaba-SP. Aqui você vai acompanhar minha jornada na programação, onde estou sempre evoluindo e buscando aprender mais a cada dia. Estou aberto a sugestões e conselhos para crescer ainda mais como desenvolvedor, e também em busca de uma oportunidade para atuar como programador. Fique à vontade para explorar meus projetos e, quem sabe, colaborar em algo juntos!
+👋 Seja bem-vindo ao meu espaço no GitHub! Sou David, tenho 23 anos e moro em Sorocaba-SP. Aqui você vai acompanhar minha jornada na programação, onde estou sempre evoluindo e buscando aprender mais a cada dia. Estou aberto a sugestões e conselhos para crescer ainda mais como desenvolvedor, e também em busca de uma oportunidade para atuar como programador. Fique à vontade para explorar meus projetos e, quem sabe, colaborar em algo juntos!<br/><br/>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DOliver1k)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084278821756)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolive_er/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/doliveer)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doliveer/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doliveer/)<br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOliver14&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOliver14&show_icons=true&theme=dark)<br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOliver14&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOliver14&hide_progress=true)<br/><br/>
 
-### 💻 Ferramentas e tecnologias que fazem parte do meu dia a dia
+### 💻 Ferramentas e tecnologias que fazem parte do meu dia a dia<br/>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
