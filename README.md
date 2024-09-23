@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o David Henrique 🙋‍♂️ 
 
+👋 Seja bem-vindo ao meu espaço no GitHub! Sou David, tenho 23 anos e moro em Sorocaba-SP. Aqui você vai acompanhar minha jornada na programação, onde estou sempre evoluindo e buscando aprender mais a cada dia. Estou aberto a sugestões e conselhos para crescer ainda mais como desenvolvedor, e também em busca de uma oportunidade para atuar como programador. Fique à vontade para explorar meus projetos e, quem sabe, colaborar em algo juntos!
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DOliver1k)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100084278821756)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dolive_er/)
@@ -11,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOliver14&hide_progress=true)
 
-### Tecnologias que eu uso no meu dia 
+### 💻 Ferramentas e tecnologias que fazem parte do meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,5 +23,5 @@
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div><br/>
 
-Apaixonado por tecnologia desde 2015
+### 💡 Explorando e me apaixonando pela tecnologia desde 2015
 
